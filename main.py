@@ -207,4 +207,4 @@ async def slowmode(ctx,seconds: int):
     await ctx.message.delete()
 #events
 
-client.run("ODg5OTA2MDI4NDcxMjc5NjU3.YUoDkg.4TqQR8ETPh0V_uz9GMVeHx61jvc")  
+client.run("")  
