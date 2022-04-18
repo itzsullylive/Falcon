@@ -1,5 +1,4 @@
-from turtle import title
-from xml.dom import ValidationErr
+
 import discord
 from discord.ext import commands
 import asyncio
